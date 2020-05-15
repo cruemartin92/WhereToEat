@@ -1,3 +1,5 @@
+package com.myprograms.app;
+
 import java.util.Date;
 
 public class Restaurant{

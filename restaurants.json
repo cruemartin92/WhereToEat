@@ -1,0 +1,205 @@
+{
+  "restaurant list":[     
+      {"restaurant": {
+        "name": "4th Meal",
+        "type": "mExIcAn",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},
+      {"restaurant": {
+        "name": "Subway",
+        "type": "Deli",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Arby's",
+        "type": "MEAT",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Wendy's",
+        "type": "Burgers",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "KFC",
+        "type": "Chicken",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Burger King",
+        "type": "Burgers",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "McDonald's",
+        "type": "Burgers",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Culver's",
+        "type": "Burgers",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Little Caesars",
+        "type": "Pizza",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Jet's Pizza",
+        "type": "Pizza",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Hungry Howie's Pizza",
+        "type": "Pizza",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Stein Brothers Pizza",
+        "type": "Pizza",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Vitale's Pizza",
+        "type": "Pizza",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Jose's Restaurant",
+        "type": "Mexican",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Cedar Springs Brewing Company",
+        "type": "German",
+        "city": "Cedar Springs",
+        "fastFood": false,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Cedar Cafe",
+        "type": "American",
+        "city": "Cedar Springs",
+        "fastFood": false,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "The Red Bird Bistro & Grill",
+        "type": "American",
+        "city": "Cedar Springs",
+        "fastFood": false,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Sue's Country Kitchen",
+        "type": "American",
+        "city": "Cedar Springs",
+        "fastFood": false,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Classic Kelly's Family Restaurant",
+        "type": "mExIcAn",
+        "city": "Cedar Springs",
+        "fastFood": false,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Cut's Catering & Deli",
+        "type": "Deli",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Nonno's Homestyle Italian & Pizza",
+        "type": "Pizza",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Story's Fresh Meat & Deli",
+        "type": "Deli",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Cedar Rock Cafe",
+        "type": "American",
+        "city": "Cedar Springs",
+        "fastFood": false,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+      "restaurant": {
+        "name": "Mommas Boy",
+        "type": "Pizza",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }},{
+
+      "restaurant": {
+        "name": "Flo's Wood Fired Pizzeria",
+        "type": "Pizza",
+        "city": "Cedar Springs",
+        "fastFood": true,
+        "rating" : 3,
+        "lastVisited" : "2020-05-14 14:06:01.790"
+      }}
+  ]
+}
